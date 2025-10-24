@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Alamsyah Firdaus 👋
+
+![Alamsyah Firdaus](img/WhatsApp%20Image%202025-10-24%20at%2016.43.21%20(1).jpeg)
 
 <!--
 **alamsyahfirdauss/alamsyahfirdauss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently **working on**
+- 🔭 I’m currently learning [**JavaScript**](https://Javascript.com)
+🕌💻🖱⏰🏋️‍♀️🏃‍♂️
