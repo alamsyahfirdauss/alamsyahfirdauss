@@ -1,6 +1,6 @@
 ## Hello World! I'm Alamsyah Firdaus 👋
 
-![Alamsyah Firdaus](img\Github-header1.jpg)
+![Alamsyah Firdaus](img/Github-header1.jpg)
 
 <!--
 **alamsyahfirdauss/alamsyahfirdauss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
